@@ -8,4 +8,4 @@ Download the dataset into './data' folder.
 
 Sample ouptut:
 
-<img src="./output/result.png" width = "576" height = "270" align=center />
+<img src="./output/result.png" width = "420" height = "250" align=center />  <img src="./output/result2.png" width = "420" height = "250" align=center />
